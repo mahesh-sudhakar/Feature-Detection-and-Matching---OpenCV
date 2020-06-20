@@ -1,17 +1,17 @@
 # Feature-Detection-and-Matching---OpenCV
 
-Assignment 1 of grad course AER1515 - Perception for Robotics - UTIAS - University of Toronto.
+Assignment 1 of grad course AER1515 - *Perception for Robotics* - UTIAS - University of Toronto.
 
 This is a python notebook .ipynb file created on Colab, converted to a .py file.
 
-The dataset is accessed by mounting the google drive. 
-Please change the path of dataset accordingly in line 259.
+The dataset is accessed by mounting the google drive. Please change the path of dataset accordingly in ```line 259.```
 
-Also change file paths for left, right images and to access calibration files in line 262 - 265, and 288.
+Also change file paths for left, right images and to access calibration files in ```line 262 - 265, and 288.```
 
 Please see attached report for details on implementation of functions.
 
 --------------
+**Abstract**
 
 This project implements feature point detection and its matching between stereo pair images from KITTI
 dataset. For a given input RGB image from left camera, the features which are described to be an image
